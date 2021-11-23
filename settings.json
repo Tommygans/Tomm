@@ -3,7 +3,7 @@
 	"autobio": false,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
